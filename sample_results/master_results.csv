@@ -1,0 +1,156 @@
+,item,unit,value,day
+0,procurement_costs,$,177625.79951643833,0
+1,unserved_load,MWh,0.0,0
+2,curtailed_load,MWh,1.1368683772161605e-13,0
+3,system_emission,tonne CO2,0.0,0
+4,carbon_costs,$,0.0,0
+5,procurement_costs,$,183108.90759636983,1
+6,unserved_load,MWh,0.0,1
+7,curtailed_load,MWh,0.0,1
+8,system_emission,tonne CO2,0.0,1
+9,carbon_costs,$,0.0,1
+10,procurement_costs,$,196128.191985,2
+11,unserved_load,MWh,0.0,2
+12,curtailed_load,MWh,1.1368683772161605e-13,2
+13,system_emission,tonne CO2,0.0,2
+14,carbon_costs,$,0.0,2
+15,procurement_costs,$,199466.19774315064,3
+16,unserved_load,MWh,0.0,3
+17,curtailed_load,MWh,1.2789769243681806e-13,3
+18,system_emission,tonne CO2,0.0,3
+19,carbon_costs,$,0.0,3
+20,procurement_costs,$,201604.22051931507,4
+21,unserved_load,MWh,0.0,4
+22,curtailed_load,MWh,1.4210854715202006e-13,4
+23,system_emission,tonne CO2,0.0,4
+24,carbon_costs,$,0.0,4
+25,procurement_costs,$,199639.64661075344,5
+26,unserved_load,MWh,0.0,5
+27,curtailed_load,MWh,-4.440892098500626e-14,5
+28,system_emission,tonne CO2,0.0,5
+29,carbon_costs,$,0.0,5
+30,procurement_costs,$,187770.78838479452,6
+31,unserved_load,MWh,0.0,6
+32,curtailed_load,MWh,5.684341886080803e-14,6
+33,system_emission,tonne CO2,0.0,6
+34,carbon_costs,$,0.0,6
+35,procurement_costs,$,179809.83933910957,7
+36,unserved_load,MWh,0.0,7
+37,curtailed_load,MWh,3.979039320256561e-13,7
+38,system_emission,tonne CO2,0.0,7
+39,carbon_costs,$,0.0,7
+40,procurement_costs,$,192970.71464006847,8
+41,unserved_load,MWh,0.0,8
+42,curtailed_load,MWh,1.1368683772161605e-13,8
+43,system_emission,tonne CO2,0.0,8
+44,carbon_costs,$,0.0,8
+45,procurement_costs,$,199972.385254726,9
+46,unserved_load,MWh,0.0,9
+47,curtailed_load,MWh,1.1368683772161605e-13,9
+48,system_emission,tonne CO2,0.0,9
+49,carbon_costs,$,0.0,9
+50,procurement_costs,$,200970.60118664385,10
+51,unserved_load,MWh,0.0,10
+52,curtailed_load,MWh,-2.76445533131664e-14,10
+53,system_emission,tonne CO2,0.0,10
+54,carbon_costs,$,0.0,10
+55,procurement_costs,$,201356.43642273973,11
+56,unserved_load,MWh,0.0,11
+57,curtailed_load,MWh,1.8474111129762605e-13,11
+58,system_emission,tonne CO2,0.0,11
+59,carbon_costs,$,0.0,11
+60,procurement_costs,$,202390.05008273973,12
+61,unserved_load,MWh,0.0,12
+62,curtailed_load,MWh,1.7053025658242404e-13,12
+63,system_emission,tonne CO2,0.0,12
+64,carbon_costs,$,0.0,12
+65,procurement_costs,$,190496.41344712328,13
+66,unserved_load,MWh,0.0,13
+67,curtailed_load,MWh,7.105427357601003e-14,13
+68,system_emission,tonne CO2,0.0,13
+69,carbon_costs,$,0.0,13
+70,procurement_costs,$,182914.22009191776,14
+71,unserved_load,MWh,0.0,14
+72,curtailed_load,MWh,1.7053025658242404e-13,14
+73,system_emission,tonne CO2,0.0,14
+74,carbon_costs,$,0.0,14
+75,procurement_costs,$,193929.9930710959,15
+76,unserved_load,MWh,0.0,15
+77,curtailed_load,MWh,4.547473508864641e-13,15
+78,system_emission,tonne CO2,0.0,15
+79,carbon_costs,$,0.0,15
+80,procurement_costs,$,206202.38539719177,16
+81,unserved_load,MWh,0.0,16
+82,curtailed_load,MWh,1.5987211554602254e-13,16
+83,system_emission,tonne CO2,0.0,16
+84,carbon_costs,$,0.0,16
+85,procurement_costs,$,207243.07860280824,17
+86,unserved_load,MWh,0.0,17
+87,curtailed_load,MWh,5.306866057708248e-14,17
+88,system_emission,tonne CO2,0.0,17
+89,carbon_costs,$,0.0,17
+90,procurement_costs,$,209420.038879863,18
+91,unserved_load,MWh,0.0,18
+92,curtailed_load,MWh,5.5955240441107896e-14,18
+93,system_emission,tonne CO2,0.0,18
+94,carbon_costs,$,0.0,18
+95,procurement_costs,$,204290.9080807534,19
+96,unserved_load,MWh,0.0,19
+97,curtailed_load,MWh,2.273736754432321e-13,19
+98,system_emission,tonne CO2,0.0,19
+99,carbon_costs,$,0.0,19
+100,procurement_costs,$,195473.33401547943,20
+101,unserved_load,MWh,0.0,20
+102,curtailed_load,MWh,2.273736754432321e-13,20
+103,system_emission,tonne CO2,0.0,20
+104,carbon_costs,$,0.0,20
+105,procurement_costs,$,191250.385055274,21
+106,unserved_load,MWh,0.0,21
+107,curtailed_load,MWh,1.354472090042691e-13,21
+108,system_emission,tonne CO2,0.0,21
+109,carbon_costs,$,0.0,21
+110,procurement_costs,$,205890.8853900685,22
+111,unserved_load,MWh,0.0,22
+112,curtailed_load,MWh,1.1368683772161605e-13,22
+113,system_emission,tonne CO2,0.0,22
+114,carbon_costs,$,0.0,22
+115,procurement_costs,$,205859.0274347945,23
+116,unserved_load,MWh,0.0,23
+117,curtailed_load,MWh,5.684341886080803e-14,23
+118,system_emission,tonne CO2,0.0,23
+119,carbon_costs,$,0.0,23
+120,procurement_costs,$,200910.4250489041,24
+121,unserved_load,MWh,0.0,24
+122,curtailed_load,MWh,1.1368683772161605e-13,24
+123,system_emission,tonne CO2,0.0,24
+124,carbon_costs,$,0.0,24
+125,procurement_costs,$,200510.4307215753,25
+126,unserved_load,MWh,0.0,25
+127,curtailed_load,MWh,1.6520118606422332e-13,25
+128,system_emission,tonne CO2,0.0,25
+129,carbon_costs,$,0.0,25
+130,procurement_costs,$,194436.18058267125,26
+131,unserved_load,MWh,0.0,26
+132,curtailed_load,MWh,1.1368683772161605e-13,26
+133,system_emission,tonne CO2,0.0,26
+134,carbon_costs,$,0.0,26
+135,procurement_costs,$,184938.9701382192,27
+136,unserved_load,MWh,0.0,27
+137,curtailed_load,MWh,-3.410605131648481e-13,27
+138,system_emission,tonne CO2,0.0,27
+139,carbon_costs,$,0.0,27
+140,procurement_costs,$,176670.06085821916,28
+141,unserved_load,MWh,0.0,28
+142,curtailed_load,MWh,1.4210854715202006e-13,28
+143,system_emission,tonne CO2,0.0,28
+144,carbon_costs,$,0.0,28
+145,procurement_costs,$,190510.57253835612,29
+146,unserved_load,MWh,0.0,29
+147,curtailed_load,MWh,1.3500311979441906e-13,29
+148,system_emission,tonne CO2,0.0,29
+149,carbon_costs,$,0.0,29
+150,procurement_costs,$,196468.01017458903,30
+151,unserved_load,MWh,0.0,30
+152,curtailed_load,MWh,4.973799150320701e-14,30
+153,system_emission,tonne CO2,0.0,30
+154,carbon_costs,$,0.0,30
